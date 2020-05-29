@@ -1,4 +1,4 @@
-# Geospatial Indexes 
+# Geospatial Indexes (mongodb.ipynb內有詳細解說與註解)
 <br>如果不了解請觀看此影片https://www.youtube.com/watch?v=iGnSNfzaLf4<br>
 # Windown10 前置作業(已安裝Anaconda Navigator、jupyter notebook)
 
