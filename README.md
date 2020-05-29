@@ -27,6 +27,7 @@ https://www.mongodb.com/download-center/community
 
 
 
+![baidu](http://www.baidu.com/img/bdlogo.gif)  
 
 
 
