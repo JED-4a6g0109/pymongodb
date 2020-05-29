@@ -17,15 +17,12 @@ https://www.mongodb.com/download-center/community
 <br> gmplot安裝pip install gmplot<br> 
 
 ### 安裝完pymongo後參考菜鳥教程 pymongo執行連線程式
-  import pymongo
- 
-myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-mydb = myclient["runoobdb"]
-mycol = mydb["sites"]
- 
-x = mycol.find_one()
- 
-print(x)
+    import pymongo
+    myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+    mydb = myclient["runoobdb"]
+    mycol = mydb["sites"]
+    x = mycol.find_one() 
+    print(x)
 如果執行沒出現錯誤代表mongodb與pymongodb設定完成，如果有錯誤請自行google
 
 
