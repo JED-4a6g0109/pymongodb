@@ -7,7 +7,7 @@
 
 ### 未安裝mongodb環境
 https://www.mongodb.com/download-center/community
-選擇Windows X64 下載
+<br> 選擇Windows X64 下載</br> 
 
 安裝完後開啟C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe
 開啟mongo確定是否可使用
