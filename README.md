@@ -25,6 +25,7 @@ https://www.mongodb.com/download-center/community
     print(x)
 如果執行沒出現錯誤代表mongodb與pymongodb設定完成，如果有錯誤請自行google
 
+## 4.開啟mongodb.ipynb一步步做(內有詳細註解與解說)
 
 # 程式缺圖補解說
 ## pymongo GEO2D near
