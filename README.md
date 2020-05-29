@@ -27,9 +27,18 @@ https://www.mongodb.com/download-center/community
 
 
 
-![baidu](https://github.com/JEDEngineer/pymongodb/blob/master/126%E5%85%AC%E5%B0%BA.jpg)  
+## 程式缺圖補解說
+### pymongo GEO2D near
+<br>near一律由最近到最遠<br>
+<br>maxDistance 這邊距離 0.001 為100公尺，經過google map自己量測距離確定無誤<br>
 
+![near](https://github.com/JEDEngineer/pymongodb/blob/master/126%E5%85%AC%E5%B0%BA.jpg)  
 
+### pymongo GEO2D BOX
+![near](https://github.com/JEDEngineer/pymongodb/blob/master/1590733135235.jpg)  
+
+### pymongo GEO2D circle
+![near](https://github.com/JEDEngineer/pymongodb/blob/master/1590734356247.jpg)  
 
 
 ## 參考文獻
