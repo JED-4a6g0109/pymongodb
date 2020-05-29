@@ -10,7 +10,7 @@
 
 參考文獻：
 
-菜鳥教程：https ://www.runoob.com/python3/python-mongodb-insert-document.html、https://www.runoob.com/python3/python-mongodb-query-document.html
+菜鳥教程：https://www.runoob.com/python3/python-mongodb-insert-document.html、https://www.runoob.com/python3/python-mongodb-query-document.html
 
 PyMongoDB documentation：https://pymongo.readthedocs.io/en/stable/examples/geo.html#creating-a-geospatial-index
 
